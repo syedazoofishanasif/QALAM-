@@ -1,8 +1,4 @@
-@media only screen and (max-width: 600px){
-body{
-    color: peachpuff;
-}
-}
+
 header{
     padding: 10px 100px;
     position: sticky;
@@ -56,7 +52,6 @@ nav a:hover {
     margin-left: 80px;
     color: powderblue;
     font-weight: bolder;
-    background-color: palegoldenrod;
 }
 .card .card-title{
     color: powderblue;
